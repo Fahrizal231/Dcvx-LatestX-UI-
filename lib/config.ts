@@ -47,7 +47,7 @@ export const siteConfig = {
 
   // API information
   api: {
-    baseUrl: "https://api.raolprojects.my.id", // Updated base URL
+    baseUrl: "https://dcvx-latest-x-ui.vercel.app", // Updated base URL
     creator: "Dimas Nugroho",
   },
 
